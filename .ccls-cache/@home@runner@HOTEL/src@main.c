@@ -17,7 +17,7 @@ int main() {
   int numQuarto = 0;
   int numEstadias = 0;
   int opcao;
-  printf(("---------BEM VINDO AO HOTELTRIVAGO---------"))
+  printf(("---------BEM VINDO AO HOTELTRIVAGO---------");
   do {
     printf("\nSoftware de gestão do Hotel Descanso Garantido:\n");
     printf("\n1. Cadastrar Cliente\n");
